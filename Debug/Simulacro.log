@@ -1,0 +1,4 @@
+﻿  Funciones.cpp
+C:\Users\Lucas\Desktop\DEV\Fuentes\UTN\Simulacro\Simulacro\Funciones.cpp(33,51): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Lucas\Desktop\DEV\Fuentes\UTN\Simulacro\Simulacro\Funciones.cpp(40,51): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+  Simulacro.vcxproj -> C:\Users\Lucas\Desktop\DEV\Fuentes\UTN\Simulacro\Debug\Simulacro.exe
